@@ -7,12 +7,4 @@ This project was developed as part of the "Algorithms and Computational Complexi
 - **Three Sorting Algorithms**: Includes implementation of Insertion, Merge, and Bubble sort.
 - **Random Number Generation**: Facilitates the generation of random numbers to test the sorting algorithms.
 - **Performance Measurement**: Measures and compares the execution time of each sorting algorithm.
-- **Data Handling**: Capability to load data from a file and display numbers before and after sorting.
-
-
-## Installation
-Provide step-by-step instructions on how to set up and run the project locally. For example:
-```bash
-git clone https://github.com/yourusername/aizo_project.git
-cd aizo_project
-# add any additional commands needed for setup
+- **Data Handling**: Capability to load data from a file and display numbers before and after sorting
