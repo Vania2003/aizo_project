@@ -9,10 +9,6 @@ This project was developed as part of the "Algorithms and Computational Complexi
 - **Performance Measurement**: Measures and compares the execution time of each sorting algorithm.
 - **Data Handling**: Capability to load data from a file and display numbers before and after sorting.
 
-## Technologies Used
-- [Programming Language (e.g., Python, Java, C++)]: Describe which programming language and version was used.
-- [IDEs/Tools]: List any IDEs or tools used (e.g., Visual Studio Code, Eclipse).
-- [Other Libraries/APIs]: Mention any additional libraries or APIs used in the project.
 
 ## Installation
 Provide step-by-step instructions on how to set up and run the project locally. For example:
