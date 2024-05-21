@@ -2,6 +2,7 @@
 
 ## Overview
 This project was developed as part of the "Algorithms and Computational Complexity" course at Wrocław University of Science and Technology. It features implementations of three fundamental sorting algorithms: Insertion Sort, Merge Sort, and Bubble Sort.
+The project is accompanied by a .pdf report in Polish
 
 ## Features
 - **Three Sorting Algorithms**: Includes implementation of Insertion, Merge, and Bubble sort.
